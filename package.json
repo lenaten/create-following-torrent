@@ -1,0 +1,17 @@
+{
+  "name": "create-following-torrent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {
+    "create-torrent": "^3.29.2",
+    "magnet-uri": "^5.1.7",
+    "parse-torrent": "^5.8.3"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "license": "MIT"
+}
